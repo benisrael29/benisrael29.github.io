@@ -1,0 +1,19 @@
+Input: Generate a cover letter for [Your position].
+
+Ouput: [Add your cover letter for this job]
+
+Input: Generate a cover letter for [Your position].
+
+Output: [Add your cover letter for this job]
+
+Input: Generate a cover letter for [Your position].
+
+Output: [Add your cover letter for this job]
+
+Input: Generate a cover letter for [the position youre after].
+
+Output: 
+
+
+
+
